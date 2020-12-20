@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper{
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-image: image-url('dice-2788986_1920.jpg');
+  background-color: black;            /* 背景色 */
+  background-size: cover;               /* 全画面 */
+  background-attachment: fixed;         /* 固定 */
+  background-position: center center;   /* 縦横中央 */
+  min-height: 100vh;
+}
+
+.login-button{
+
+}
+
+.new-user-button{
+  
+}
